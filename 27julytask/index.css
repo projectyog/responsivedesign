@@ -1,0 +1,90 @@
+.first{
+    background-color: cornflowerblue;
+    height:500px;
+    padding: 40px;
+    color:cornsilk
+}
+#rounded{
+    border-radius: 40%;
+    width: 100px;
+    color: black;
+    border: none;
+
+}
+.headline{
+    color:cornsilk;
+    margin-top: 100px;
+}
+.second1 {
+    background-color:white;
+    height: 300px;
+    text-align: center;
+    padding: 50px;
+}
+.spacing{   
+color: black;
+}
+.second2 {
+    background-color:yellowgreen;
+    height: 300px;
+}
+
+.third1{
+    background-color:palevioletred;
+    height: 300px;
+}
+.third2{
+    background-color:white;
+    height: 300px;
+}
+.fourth1{
+    background-color:lightskyblue;
+    height: 300px;
+}
+.fourth2{
+    background-color:rgb(67, 166, 228);
+    height: 300px;
+}
+.testimonial{
+    
+    background-color: rgb(217, 220, 223);
+    align-items: center;
+    height: 400px;
+}
+.center{
+    align-items: center;
+    border-radius: 20%;
+}
+.col1{
+    background-color: rgb(108, 162, 231);
+    height: 200px;
+}
+.col2{
+    background-color: rgb(233, 156, 13);
+    height: 200px;
+}
+.col3{
+    background-color: rgb(27, 172, 160);
+    height: 200px;
+}
+.col4{
+    background-color: rgb(206, 62, 62);
+    height: 200px;
+}
+.footer{
+    background-color:rgb(94, 169, 179) ;
+    height: 300px;
+    width:100%;
+}
+.textcenter{
+    text-align: center;
+    color: blanchedalmond;
+    padding:30px;
+}
+#dist{
+    padding:30px;
+    color: blanchedalmond;
+}
+.nav-link{
+    color: blanchedalmond;
+}
